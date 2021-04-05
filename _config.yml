@@ -52,7 +52,7 @@ noindex: true
 ##########
 # BUILD SETTINGS 
 #
-# Note: use environment variable on build command to include analytics
+# Note: use environment variable on build command to include analytics 
 # JEKYLL_ENV=production jekyll build
 # (this is done automatically by gh-pages build)
 #
