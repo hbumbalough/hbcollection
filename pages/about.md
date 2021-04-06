@@ -8,50 +8,29 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection" %}
+{% include feature/nav-menu.html sections="About the Collection;About JPL" %}
 
 ## About the Collection
 
-This collection holds postcards that were donated or purchased for Jacksonville Public Library. The originals are held in the Special Collections Department of the Library. 
+This collection holds postcards that were donated or purchased for Jacksonville Public Library. The originals are held in the Special Collections Department of the Library.
+
+The Florida Postcards Collection is a sample of larger collection that can be found, along with other interesting collections, on the [Jacksonville Public Library Digital Collections website](https://jaxpubliclibrary.contentdm.oclc.org/digital/). 
 
 {% include feature/item-figure.html objectid="pc007" width="50" %}
 
-## About the About Page
+## About JPL
 
-We want to make About pages exciting, and easy to build. 
+The Jacksonville Public Library is a large library system, consisting of a 300,000 sq. ft. Main Library and twenty regional, community and neighborhood branch libraries. We also serve the needs of the community with a Special Needs Library for Disabled Customers and an active adult literacy program.
 
-The CollectionBuilder about page features a narrowed column with its own (optional) menu, featured content, and some technical information. 
-
-To build one, a user writes in [Markdown](https://guides.github.com/features/mastering-markdown/) and includes  content from the site, as well as typical [Bootstrap](https://getbootstrap.com/) features like cards and modals, using code snippets like those detailed below. 
-
-(Each included file has several options, which are documented in the files themselves. I've given the content widths of 25% and 50% to save space, but you can feature the entire image or document.) 
-
-- Image --> `{% raw %}{% include feature/item-figure.html objectid="demo_001" width="25" %}{% endraw %}`
-
-{% include feature/item-figure.html objectid="demo_001" width="25" %}
-
-- PDF -- > `{% raw %}{% include feature/item-pdf-embed.html objectid="demo_002"  width="25" %}{% endraw %}`
-
-{% include feature/item-pdf-embed.html objectid="demo_002" width="25" %}
-
-- Video: `{% raw %}{% include feature/item-video-embed.html objectid="demo_004" %}{% endraw %}`
-
-{% include feature/item-video-embed.html objectid="demo_004" %}
-
-- Card -- > `{% raw %}{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_004" width="25" centered=true %}{% endraw %}`
-
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_004" width="25" centered=true %}
-
-- Buttons -- > `{% raw %}{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" %}{% endraw %}`
-
-{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" centered=true %}
-  
-- Alerts -- > `{% raw %}{% include feature/alert.html text="this is an *alert* that 'warns' a user" color="warning" align="center" %}{% endraw %}`
-
-{% include feature/alert.html text="This is an *alert* that 'warns' a user with centrally aligned text." color="warning" align="center"  %}
-
-- Modals -- > `{% raw %}{% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="when clicked:" text="A Modal will pop out a box with some more information" color="primary"  %}{% endraw %}`
-
-{% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="When clicked:" text="A Modal will pop out a box with some more information" color="primary"  %}
-
-We hope this makes it easier for site builders to develop the collection AND add interesting and engaging contextual information.  
+Some additinbal services that are available include:
+* Free WiFi
+* 3-D Printing (for a fee of between $1.00 and $3.00 dollars)
+* Center for Adult Learning (CAL) at the Jacksonville Public Library serves over 500 adult students each year - providing GED preparation, English for Speakers of Other Languages (ESOL), and other adult education courses. Adult learners can gain the skills they need to enter and succeed in the workforce and/or for post-secondary education.
+* Digitization Station - Do you have boxes of old photographs in storage?  Home movies on VHS?  Have you ever wanted to transfer them to DVD or share them online? Preserve your priceless memories and mementos with the Digitization Station in Special Collections at the Main Library.
+* Exhibit Your Art at the Library - The Jacksonville Public Library (JPL) is pleased to provide space for exhibits that support its mission to enrich lives, build community, and foster success by bringing people, information, and ideas together. These exhibits may be educational, cultural, civic or artistic in nature
+* Self-Publishing E-books at the Library - The Jacksonville Public library is partnering with Library Journal  to bring the Indie Author Project service to you.  The Indie Author Project discovery platform is designed to expose your ebook to readers through the public library. 
+* For Local Authors and Small Presses - Jacksonville Public Library will consider materials (books, music CDs and DVDs) that are written and/or published locally for addition to the collection. As a public library we select books whose content is written for the general reader rather than for the specialist or practitioner.
+* Personalized Booklist - Looking for a good book?  Fill out this form and our staff will create a list of 5 books just for you.
+* Personalized Playlist - Need something to listen to? Looking for a new favorite band? Simply fill out the form and our staff will search out the music you love. The more information provided, the more specific will be our recommendations.
+* Talking Books Library - The Talking Books Library loans audiobooks and magazines, along with a player, FREE by mail to persons who have difficulty reading or using printed books and other materials because of blindness, or visual, physical or reading disabilities. Customers can also request Braille books for free.
+* Interlibrary Loan
