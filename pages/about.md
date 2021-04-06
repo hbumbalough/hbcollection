@@ -20,6 +20,8 @@ The Florida Postcards Collection is a sample of a larger collection that can be 
 
 ## About JPL
 
+{% include feature/item-figure.html objectid="objects/JPL_color_logo_small.png" width="50" %}
+
 The Jacksonville Public Library is a large library system, consisting of a 300,000 sq. ft. Main Library and twenty regional, community and neighborhood branch libraries. We also serve the needs of the community with a Special Needs Library for Disabled Customers and an active adult literacy program.
 
 Some [additional services](https://jaxpubliclibrary.org/services) that are available include:
