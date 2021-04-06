@@ -14,7 +14,7 @@ permalink: /about.html
 
 This collection holds postcards that were donated or purchased for Jacksonville Public Library. The originals are held in the Special Collections Department of the Library.
 
-The Florida Postcards Collection is a sample of larger collection that can be found, along with other interesting collections, on the [Jacksonville Public Library Digital Collections website](https://jaxpubliclibrary.contentdm.oclc.org/digital/). 
+The Florida Postcards Collection is a sample of a larger collection that can be found, along with other interesting collections, on the [Jacksonville Public Library Digital Collections website](https://jaxpubliclibrary.contentdm.oclc.org/digital/). 
 
 {% include feature/item-figure.html objectid="pc007" width="50" %}
 
@@ -22,10 +22,10 @@ The Florida Postcards Collection is a sample of larger collection that can be fo
 
 The Jacksonville Public Library is a large library system, consisting of a 300,000 sq. ft. Main Library and twenty regional, community and neighborhood branch libraries. We also serve the needs of the community with a Special Needs Library for Disabled Customers and an active adult literacy program.
 
-Some additinbal services that are available include:
+Some [additional services](https://jaxpubliclibrary.org/services) that are available include:
 * Free WiFi
 * 3-D Printing (for a fee of between $1.00 and $3.00 dollars)
-* Center for Adult Learning (CAL) at the Jacksonville Public Library serves over 500 adult students each year - providing GED preparation, English for Speakers of Other Languages (ESOL), and other adult education courses. Adult learners can gain the skills they need to enter and succeed in the workforce and/or for post-secondary education.
+* Center for Adult Learning (CAL) - Provides GED preparation, English for Speakers of Other Languages (ESOL), and other adult education courses for over 500 adult students each year. Adult learners can gain the skills they need to enter and succeed in the workforce and/or for post-secondary education.
 * Digitization Station - Do you have boxes of old photographs in storage?  Home movies on VHS?  Have you ever wanted to transfer them to DVD or share them online? Preserve your priceless memories and mementos with the Digitization Station in Special Collections at the Main Library.
 * Exhibit Your Art at the Library - The Jacksonville Public Library (JPL) is pleased to provide space for exhibits that support its mission to enrich lives, build community, and foster success by bringing people, information, and ideas together. These exhibits may be educational, cultural, civic or artistic in nature
 * Self-Publishing E-books at the Library - The Jacksonville Public library is partnering with Library Journal  to bring the Indie Author Project service to you.  The Indie Author Project discovery platform is designed to expose your ebook to readers through the public library. 
