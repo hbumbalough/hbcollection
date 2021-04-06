@@ -14,13 +14,13 @@ permalink: /about.html
 
 This collection holds postcards that were donated or purchased for Jacksonville Public Library. The originals are held in the Special Collections Department of the Library.
 
-The Florida Postcards Collection is a sample of a larger collection that can be found, along with other interesting collections, on the [Jacksonville Public Library Digital Collections website](https://jaxpubliclibrary.contentdm.oclc.org/digital/). 
+The Florida Postcards Collection is a sample of a larger collection that can be found, along with other interesting collections, on the [Jacksonville (Fla.) Public Library Digital Collections website](https://jaxpubliclibrary.contentdm.oclc.org/digital/). 
 
 {% include feature/item-figure.html objectid="pc007" width="50" %}
 
 ## About JPL
 
-The Jacksonville Public Library is a large library system, consisting of a 300,000 sq. ft. Main Library and twenty regional, community and neighborhood branch libraries. We also serve the needs of the community with a Special Needs Library for Disabled Customers and an active adult literacy program.
+The Jacksonville (Fla.) Public Library is a large library system, consisting of a 300,000 sq. ft. Main Library and twenty regional, community and neighborhood branch libraries. We also serve the needs of the community with a Special Needs Library for Disabled Customers and an active adult literacy program.
 
 Some [additional services](https://jaxpubliclibrary.org/services) that are available include:
 * Free WiFi
